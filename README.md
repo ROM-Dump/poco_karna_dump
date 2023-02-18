@@ -1,0 +1,19 @@
+## qssi-user 10 QKQ1.200512.002 V12.0.9.0.QJGMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: sm6150
+- Codename: karna
+- Brand: POCO
+- Flavor: qssi-user
+- Release Version: 10
+- Kernel Version: 4.14.117
+- Id: QKQ1.200512.002
+- Incremental: V12.0.9.0.QJGMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 440
+- Fingerprint: POCO/karna_global/karna:10/QKQ1.200512.002/V12.0.9.0.QJGMIXM:user/release-keys
+- OTA version: 
+- Branch: qssi-user-10-QKQ1.200512.002-V12.0.9.0.QJGMIXM-release-keys
+- Repo: poco_karna_dump
